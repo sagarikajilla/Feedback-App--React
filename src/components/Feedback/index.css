@@ -1,0 +1,54 @@
+/* Write your CSS code here. */
+.bg {
+  background-image: linear-gradient(to right, #ffeeee, #ffebeb, #ffc0bb);
+  font-family: 'Roboto';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 40px;
+}
+.heading {
+  color: #0f172a;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+.desc {
+  color: #0f172a;
+  font-size: 10px;
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+.text {
+  text-align: center;
+}
+.thank {
+  font-size: 20px;
+  color: #0f172a;
+}
+.thank-desc {
+  color: #1e293b;
+  font-size: 15px;
+}
+.love-img {
+  height: 45px;
+  width: 45px;
+}
+.fle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.aa {
+  list-style-type: none;
+  text-align: center;
+  margin-right: 50px;
+}
